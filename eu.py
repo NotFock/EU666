@@ -28,8 +28,8 @@ os.chdir(dir_name)
 USERNAME = os.environ.get("EUSERV_USERNAME", "")  
 PASSWORD = os.environ.get("EUSERV_PASSWORD", "") 
 
-TRUECAPTCHA_USERID = os.environ.get("TRUECAPTCHA_USERID", "arun56")
-TRUECAPTCHA_APIKEY = os.environ.get("TRUECAPTCHA_APIKEY", "wMjXmBIcHcdYqO2RrsVN")
+TRUECAPTCHA_USERID = os.environ.get("TRUECAPTCHA_USERID", "")
+TRUECAPTCHA_APIKEY = os.environ.get("TRUECAPTCHA_APIKEY", "")
 
 PIN_KEY_WORD = 'EUserv - PIN for'
 
