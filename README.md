@@ -14,6 +14,8 @@ https://console.cloud.google.com/apis
 
 https://console.developers.google.com/apis/api/gmail.googleapis.com
 
+关注甬哥侃侃侃油管频道：https://www.youtube.com/channel/UCxukdnZiXnTFvjF5B5dvJ5w
+
 -------------------------------------------------------------------------------
 
 2021.11.6更新说明：由于德鸡在续期时加入邮箱验证码，目前本脚本已整体失效！
@@ -33,4 +35,3 @@ wget -N https://bitbucket.org/rwkgyg/djre/raw/4f66b36838b5a22e6ff4a65512faa7318f
 进入菜单快捷方式```bash xqdj.sh```
 
 
-关注甬哥侃侃侃油管频道：https://www.youtube.com/channel/UCxukdnZiXnTFvjF5B5dvJ5w
