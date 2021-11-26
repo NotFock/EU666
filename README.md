@@ -2,9 +2,11 @@
 
 ![photo_2021-11-25_08-33-30](https://user-images.githubusercontent.com/90416692/143330086-e1af9a54-14ea-4cf6-be03-d56952f50f5c.jpg)
 
-依赖：pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib beautifulsoup4 requests pysocks
-
 创建 OAuth 2.0 client，重定向url为http://localhost:36666/ ，重命名为 credentials.json
+
+电脑本地或者微软商店下载安装python，管理员模式进入CMD或者PowerShell
+
+依赖：pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib beautifulsoup4 requests pysocks
 
 python 盘符:\路径\gmail_api.py XX@gmail.com…………登入授权
 
