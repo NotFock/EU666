@@ -6,7 +6,7 @@
 
 创建 OAuth 2.0 client，重定向url为http://localhost:36666/ ，重命名为 credentials.json
 
-python gmail_api.py email1…………登入授权
+python 盘符:\路径\gmail_api.py XX@gmail.com…………登入授权
 
 https://apitruecaptcha.org/api
 
